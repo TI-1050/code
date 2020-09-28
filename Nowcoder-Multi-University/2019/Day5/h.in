@@ -1,0 +1,33 @@
+
+3 3
+ab 2
+ab
+bc 2
+bc
+ca 2
+ac
+
+3 3
+cb 3
+bbc
+ca 2
+ac
+ab 3
+abb
+
+4 3
+ac 4
+cccc
+ba 0
+
+cb 4
+cccc
+
+
+6 3
+ab 4
+abab
+ac 4
+caca
+bc 4
+bcbc

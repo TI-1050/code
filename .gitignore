@@ -1,0 +1,17 @@
+
+
+*
+
+!*/
+!README.md
+!.gitignore
+
+!*.in
+!*.out
+
+!*.c
+!*.cpp
+!*.java
+!*.py
+!*.go
+!*.js

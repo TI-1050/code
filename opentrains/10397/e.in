@@ -1,0 +1,11 @@
+2 4
+vert 1
+hor 2
+vert 1
+perp 2 1
+
+2 4
+vert 1
+hor 2
+vert 1
+par 2 1
